@@ -1,0 +1,10 @@
+20230805	23:08:40	f0aa859f-d908-405e-bb8b-81a924aa61e4	TypeError: fsPromises.readFil is not a function
+20230806	16:13:52	37cdd7fb-69d2-4654-a296-17f9ba0ffacc	Error: Not allowed by CORS
+20230806	16:14:36	83a2baa2-b820-4734-8611-5939b07562a7	Error: Not allowed by CORS
+20230806	16:18:27	cd8e3c28-01c5-4450-838e-52cb84519673	TypeError: req.json is not a function
+20230806	16:18:28	fdc06adc-d5b9-47f5-b331-0ecf54cea800	TypeError: req.json is not a function
+20230806	16:19:24	832ce49a-c105-426f-9fda-9723252a80ee	TypeError: req.sendFile is not a function
+20230806	16:26:42	decd33da-fee2-4352-86da-a1a617bc7a3d	Error: ENOENT: no such file or directory, stat 'D:\VSCode\NodeJSnpm\views\subdir\test.html'
+20230806	19:21:31	994c6303-54cc-40b8-88b7-2272fae5e1b7	SyntaxError: Unexpected token : in JSON at position 17
+20230806	19:23:22	d55222d1-7d01-4bd0-bd51-63f448fe7312	SyntaxError: Unexpected token : in JSON at position 17
+20230806	19:23:44	27d170b7-c81f-4617-8f25-01028944d85a	SyntaxError: Unexpected token : in JSON at position 17
